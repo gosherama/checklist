@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 gem 'simple_form', '~> 3.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.4.1'
+gem 'devise', '~> 3.4', '>= 3.4.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
